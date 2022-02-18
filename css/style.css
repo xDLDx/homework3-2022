@@ -111,7 +111,7 @@ nav a:focus {
 
 /* Requirements 6-10 here: */
 .intro {
-    background-color: #DDDDDD;
+    background-color: #707070;
     background-image: url("../images/header.jpg");
     min-height: 400px;
     background-attachment: fixed;
@@ -176,7 +176,7 @@ img {
 .text {
     align-self: center;
     max-height: 25vh;
-    overflow: auto;
+    overflow-y: auto;
 }
 
 @media screen and (min-width: 700px){
